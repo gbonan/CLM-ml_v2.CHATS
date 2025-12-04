@@ -1,0 +1,18 @@
+&clmML_inparm
+tower_name       = 'CHATS7'
+start_ymd        = 20070401
+start_tod        = 0
+stop_option      = 'ndays'
+stop_n           = 30
+clm_start_ymd    = 20070401
+clm_start_tod    = 0
+fin_tower        = '../input_files/tower-forcing/CHATS7/2007-04.nc'
+fin_clm          = '../input_files/clm5_0/CHATS7/CHATS_A15.clm2.h1.2007-04-01-00000_22Jul25.nc'
+clm_phys         = 'CLM5_0'
+fin_soil_adjust  = '../input_files/clm5_0/CHATS7/CHATS_soil_moisture_correction_29Jul25.nc'
+nlev_soil_adjust = 3
+dirout           = '../output_files/'
+met_type         = 3
+dpai_min         = 0.01D0
+pftcon_val       = 1
+/
