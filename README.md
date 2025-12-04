@@ -64,5 +64,5 @@ for documentation) is available separately at https://doi.org/10.5281/zenodo.174
    ./prgm.exe < nl.CHATS7.04.2007
 
    Input files are read from the input_files directory.
-   Model output is written to the output_files_directory.
+   Model output is written to the output_files directory.
    Example model output is provided (see subroutine output in offline_driver/CLMml_driver.F90 for file format).
