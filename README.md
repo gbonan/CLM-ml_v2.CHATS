@@ -10,7 +10,7 @@ needs of multilayer canopy models – A walnut orchard test case. Agricultural a
 110960, https://doi.org/10.1016/j.agrformet.2025.110960.
 
 Supplied here are the source code and input datasets to run the simulations reported in the manuscript.
-The 30-minute observation dataset created and used for model evaluation (see the Agric. For. Meteorol. manuscript
+The 30-minute observation dataset created and used for model evaluation (see Bonan et al. (2026)
 for documentation) is available separately at https://doi.org/10.5281/zenodo.17426258.
 
 ***Directory structure***
